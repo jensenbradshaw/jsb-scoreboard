@@ -1,0 +1,1 @@
+include("autorun/sh_jsb_scoreboard.lua")
